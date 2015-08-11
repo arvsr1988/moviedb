@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hello_grid_view">HelloGridView</string>
+    <string name="pref_sort_key">prefSort</string>
+    <string name="pref_sort_default">popularity</string>
+    <string name="pref_sort_title">Sort By</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_detailed">Movie Details</string>
+</resources>
